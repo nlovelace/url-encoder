@@ -1,0 +1,16 @@
+{
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "cSpell.words": [
+    "Builtins",
+    "boxednode",
+    "hrend",
+    "hrstart",
+    "keytar",
+    "precompile",
+    "prestart",
+    "snyk"
+  ],
+  "gitdoc.enabled": false,
+  "editor.minimap.enabled": false,
+  "workbench.sideBar.location": "right"
+}
